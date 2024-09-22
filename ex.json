@@ -1,0 +1,3 @@
+{
+  "Comment": "<?xml version=\"1.0\"?>\n<!DOCTYPE data [\n<!ELEMENT data ANY>\n<!ENTITY file SYSTEM \"file:///etc/passwd\">\n]>\n<data>&file;</data>"
+}
